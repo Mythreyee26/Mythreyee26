@@ -6,7 +6,7 @@ Building scalable platforms with AWS, Kubernetes, and Terraform — now explorin
 - 🎯 **Focus areas:** AWS EKS, Helm, Terraform, CI/CD (Jenkins, GitLab CI), HashiCorp Vault, cost & observability tooling (CloudWatch, Cost Explorer, Prometheus, Grafana, Loki)
 - 📜 **Certifications:** AWS Certified Solutions Architect – Associate · AWS Certified Data Engineer – Associate · AWS Certified AI Practitioner ·
 - 🌐 **Portfolio:** [mythreyeegp.vercel.app](https://mythreyeegp.vercel.app)
-- 💼 **LinkedIn:** [add your link here](#)
+- 💼 **LinkedIn:** [add your link here](https://www.linkedin.com/in/mythreyeegp/)
 
 #### Stack
 
