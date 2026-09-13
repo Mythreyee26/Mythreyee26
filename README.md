@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi, there 👋
 
@@ -40,5 +40,5 @@ Cloud DevOps Engineer automating Kubernetes platforms on AWS — EKS, Terraform,
 
 ### 📜 Certifications
 
-**AWS Solutions Architect – Associate** · **AWS Data Engineer – Associate** · **AWS AI Practitioner**
+● **AWS Solutions Architect – Associate** ● **AWS Data Engineer – Associate** ● **AWS AI Practitioner**
 
