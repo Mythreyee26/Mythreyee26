@@ -15,8 +15,8 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| [`Kubernetes-Troubleshooting-Agent`](https://github.com/Mythreyee26/Kubernetes-Troubleshooting-Agent) | LLM agent that triages a failing pod — `describe`, logs, events — then reasons over what it found and proposes a fix. Safety-gated dry-run/apply loop. | LangGraph, FastAPI |
-| [`renovate-bot`](https://github.com/Mythreyee26/renovate-bot) | Dependency pipeline with ecosystem-aware grouping (npm · pip · Maven · Dockerfile) and dry-run compatibility gates before any auto-merge. ~60% less manual dependency work across 35+ repos. | Jenkins, GitLab CI |
+| [`Kubernetes-Troubleshooting-Agent`](https://github.com/Mythreyee26/Kubernetes-Troubleshooting-Agent) | LLM agent that triages a failing pod - `describe`, logs, events — then reasons over what it found and proposes a fix. Safety-gated dry-run/apply loop. | LangGraph, FastAPI |
+| [`renovate-bot`](https://github.com/Mythreyee26/renovate-bot) | Dependency pipeline with ecosystem-aware grouping (npm · pip · Maven · Dockerfile) and dry-run compatibility gates before any auto-merge.| Jenkins, Renovate |
 | [`aws_mtd_cost_alert_lambda`](https://github.com/Mythreyee26/aws_mtd_cost_alert_lambda) | Month-to-date AWS spend pulled from Cost Explorer and emailed on a schedule — top services, budget pace, plus a per-model Bedrock breakdown. | Lambda, SAM, EventBridge, SES |
 
 ### 🙋 About
